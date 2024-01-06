@@ -1,0 +1,2 @@
+# Zodiac Sign Calculator 
+This Java program is an assignment for [Patika.dev](https://patika.dev) and calculates the zodiac sign based on the user's birth month and day. It takes user input for the month and day, performs validation, and then determines the corresponding zodiac sign.
